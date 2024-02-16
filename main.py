@@ -162,7 +162,7 @@ def create_threadfix_file(high_findings, medium_findings, low_findings): #functi
         "exported": date_time,
         "collectionType": "SAST",
         "source": "ManualFinding",
-        "executiveSummary": "Peri source code review using snyk plugin on VS code",
+        "executiveSummary": "Source code review using snk plugin on VS code",
         "findings": []
     }
 
