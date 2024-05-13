@@ -1,1 +1,1 @@
-# script to export results into file using snk plugin on vs code
+# script to export results into file using a plugin on vs code
